@@ -13,7 +13,9 @@
   "author": "Julie Ralph <ju.ralph@gmail.com>",
   "devDependencies": {
     "jshint": "2.5.0",
-    "jasmine": "2.4.1",
+    "jasmine": "2.4.1"
+  },
+  "dependencies": {
     "selenium-webdriver": "2.48.2"
   },
   "repository": {
